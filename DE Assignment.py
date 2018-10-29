@@ -154,7 +154,7 @@ var_r.grid(row=5, column=1)
 button = Button(root, text="Continue", command=cnt)
 button.grid(row=6, column=0)
 root.mainloop()
-#--------------------------------------------------#
+#---------------------------------------------------#
 
 exact = exact_solution(x0, y0, b, n)
 euler = euler_method(x0, y0, b, n)
