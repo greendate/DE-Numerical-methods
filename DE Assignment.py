@@ -8,9 +8,8 @@ x0 = 0
 y0 = 1
 b = 9
 n = 48
-# range
-l = 0
-r = 48
+l = 0  # left border
+r = 48  # right border
 
 
 def cnt():
